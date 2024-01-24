@@ -1,6 +1,6 @@
 # What is RoomAssistant:
 
-An open source easy to deploy optimized solution to cover the main [Home Assistant](https://www.home-assistant.io/) features.
+An open source easy to deploy optimized solution to cover the [Home Assistant](https://www.home-assistant.io/) features in every room.
 
 ## The mission:
 Every serious smart-house running [Home Assistant](https://www.home-assistant.io/) has a unit running this image in each of its rooms.
