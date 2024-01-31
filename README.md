@@ -21,8 +21,8 @@ We are planning to include:
 | Voice Assistant | [RESpeak 2-mic hat](https://www.seeedstudio.com/ReSpeaker-2-Mics-Pi-HAT.html) | [wyoming-satellite](https://github.com/rhasspy/wyoming-satellite) | ❌ |
 | Multiroom audio streaming | Any audio Playback Device | [snapcast](https://www.home-assistant.io/blog/2016/02/18/multi-room-audio-with-snapcast/) | ❌ |
 | Remote-GPIO | None | [remote_rpi_gpio](https://github.com/home-assistant/core/tree/dev/homeassistant/components/remote_rpi_gpio) | ❌ |
-| Camera | [CSI-2 Camera Module v3](https://www.raspberrypi.com/products/camera-module-3/) | [TBD](https://github.com/Motion-Project/motion) | ❌ |
-| Camera | USB-Webcam | [TBD](https://github.com/Motion-Project/motion) | ❌ |
+| Camera | [CSI-2 Camera Module v3](https://www.raspberrypi.com/products/camera-module-3/) | [Motion?](https://motion-project.github.io/index.html) | ❌ |
+| Camera | USB-Webcam | [Motion?](https://motion-project.github.io/index.html) | ❌ |
 | Room occupancy | PIR and/or mmWave | TBD | ❌ |
 | Room presence | None | ESPresence | ❌ |
 | Bluetooth Proxy | None | * | ❌ |
