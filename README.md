@@ -25,6 +25,7 @@ We are planning to include:
 | Camera | USB-Webcam | [Motion?](https://motion-project.github.io/index.html) | ❌ |
 | Room occupancy | PIR and/or mmWave | TBD | ❌ |
 | Room presence | None | ESPresence | ❌ |
+| Room atmosphere | [PM2.5, CO2, VOC, Temp & Hum.](https://howtomechatronics.com/projects/diy-air-quality-monitor-pm2-5-co2-voc-ozone-temp-hum-arduino-meter) | TBD | ❌ |
 | Bluetooth Proxy | None | * | ❌ |
 
  *There is only software available for microcontrollers not for Linux, as far as I know.
